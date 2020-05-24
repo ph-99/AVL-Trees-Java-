@@ -9,7 +9,7 @@ Tree is said to be balanced if balance factor of each node is in between -1 to 1
 
 Balance Factor (k) = height (left(k)) - height (right(k))
 
-Insertion and Deletion
+Insertion and Deletion and PreOrder Traversal
 
 Left Rotation
 
